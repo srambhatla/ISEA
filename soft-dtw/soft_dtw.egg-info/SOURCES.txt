@@ -1,0 +1,16 @@
+README.rst
+setup.py
+sdtw/__init__.py
+sdtw/barycenter.py
+sdtw/chainer_func.py
+sdtw/dataset.py
+sdtw/distance.py
+sdtw/path.py
+sdtw/setup.py
+sdtw/soft_dtw.py
+sdtw/soft_dtw_fast.c
+soft_dtw.egg-info/PKG-INFO
+soft_dtw.egg-info/SOURCES.txt
+soft_dtw.egg-info/dependency_links.txt
+soft_dtw.egg-info/not-zip-safe
+soft_dtw.egg-info/top_level.txt

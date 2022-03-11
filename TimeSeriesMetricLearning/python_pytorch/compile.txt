@@ -1,0 +1,4 @@
+gcc -O3 -fPIC -shared -o mdtw_c_path.so mdtw_c_path_py.c
+gcc -O3 -fPIC -shared -o edist_c_path.so edist_c_path_py.c
+gcc -O3 -fPIC -shared -o mdtw_c_path.dll mdtw_c_path_py.c
+gcc -O3 -fPIC -shared -o edist_c_path.dll edist_c_path_py.c

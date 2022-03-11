@@ -1,0 +1,37 @@
+# OSX system files
+.DS_Store
+~$*.*
+
+# data files
+/data/**/*.mat
+/data/**/*.npz
+
+# temporary draft files
+/draft/**/*.aux
+/draft/**/*.bak
+/draft/**/*.bbl
+/draft/**/*.blg
+/draft/**/*.gz
+/draft/**/*.gz(buzy)
+/draft/**/*.log
+/draft/**/*.out
+/draft/**/*.sav
+/draft/**/*.tgz
+/draft/**/*.synctex
+/draft/**/*.synctex(buzy)
+
+# compiled code and library files
+/matlab/**/*.asv
+/matlab/**/*.pyc
+/matlab/**/*.mexw64
+/python/**/*.dll
+/python/**/*.pyc
+/python/**/*.so
+/refactor_python/**/*.dll
+/refactor_python/**/*.pyc
+/refactor_python/**/*.so
+
+
+# result files
+/results/*
+

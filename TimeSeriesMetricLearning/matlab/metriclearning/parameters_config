@@ -1,0 +1,26 @@
+synthetic, synthetic_bk: 
+
+target = 3, imposters = 5;
+
+linear:  
+dist_permit=200
+MAX_ITER = 2;
+MAX_INNER = 150;
+step_size = 0.000001; 
+
+linear_expected:
+step_size = 0.000005;
+MAX_ITER = 200;
+dist_permit = 10;
+
+non-linear:
+step_size = 0.0001;
+dist_permit = 2;
+MAX_ITER = 2;
+MAX_INNER = 30;
+
+
+
+
+
+
